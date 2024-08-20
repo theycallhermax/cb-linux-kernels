@@ -1,9 +1,9 @@
 #!/bin/bash
 
-MAINLINE_KERNEL_VERSION=6.10.5
-MAINLINE_KERNEL_SOURCE_URL=https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.10.5.tar.xz
-CHROMEOS_KERNEL_VERSION=5.10.222
-CHROMEOS_KERNEL_SOURCE_URL=https://chromium.googlesource.com/chromiumos/third_party/kernel.git/+archive/refs/heads/release-R128-15964.B-chromeos-5.10.tar.gz
+MAINLINE_KERNEL_VERSION=6.10.6
+MAINLINE_KERNEL_SOURCE_URL=https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.10.6.tar.xz
+CHROMEOS_KERNEL_VERSION=5.10.223
+CHROMEOS_KERNEL_SOURCE_URL=https://chromium.googlesource.com/chromiumos/third_party/kernel.git/+archive/refs/heads/release-R129-16002.B-chromeos-5.10.tar.gz
 
 KERNEL_TYPE=$1
 BUILD_ROOT_DIRECTORY=$(pwd)
