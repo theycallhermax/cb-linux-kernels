@@ -2,8 +2,8 @@
 
 MAINLINE_KERNEL_VERSION=6.11
 MAINLINE_KERNEL_SOURCE_URL=https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.10.10.tar.xz
-CHROMEOS_KERNEL_VERSION=5.10.223
-CHROMEOS_KERNEL_SOURCE_URL=https://chromium.googlesource.com/chromiumos/third_party/kernel.git/+archive/refs/heads/release-R129-16002.B-chromeos-5.10.tar.gz
+CHROMEOS_KERNEL_VERSION=5.10.225
+CHROMEOS_KERNEL_SOURCE_URL=https://chromium.googlesource.com/chromiumos/third_party/kernel.git/+archive/refs/heads/release-R130-16033.B-chromeos-5.10.tar.gz
 
 KERNEL_TYPE=$1
 BUILD_ROOT_DIRECTORY=$(pwd)
