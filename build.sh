@@ -1,7 +1,7 @@
 #!/bin/bash
 
-MAINLINE_KERNEL_VERSION=6.11.7
-MAINLINE_KERNEL_SOURCE_URL=https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.11.7.tar.xz
+MAINLINE_KERNEL_VERSION=6.11.8
+MAINLINE_KERNEL_SOURCE_URL=https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.11.8.tar.xz
 CHROMEOS_KERNEL_VERSION=5.10.228
 CHROMEOS_KERNEL_SOURCE_URL=https://chromium.googlesource.com/chromiumos/third_party/kernel.git/+archive/refs/heads/release-R132-16093.B-chromeos-5.10.tar.gz
 
